@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class trivias extends StatefulWidget {
+class recetas extends StatefulWidget {
   @override
   State createState() {
     return _PoliticaPrivacidadState();
   }
 }
 
-class _triviasState extends State<trivias> {
+class _recetasState extends State<recetas> {
   @override
   void initState() {
     super.initState();
